@@ -22,6 +22,16 @@
             // List<string>
             #endregion
 
+            #region Question 2
+
+            //Container<int> numbers = new Container<int>();
+
+            //numbers.Add(10);
+
+            //Console.WriteLine(numbers.Get());
+
+            #endregion
+
         }
     }
 }
