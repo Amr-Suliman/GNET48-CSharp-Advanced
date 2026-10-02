@@ -41,6 +41,18 @@
 
             #endregion
 
+            #region Question 4
+
+            //int x = 10;
+            //int y = 20;
+
+            //SwapHelper.Swap(ref x, ref y);
+
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
+
+            #endregion
+
         }
     }
 }
