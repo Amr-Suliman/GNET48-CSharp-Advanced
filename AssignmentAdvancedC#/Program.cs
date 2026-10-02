@@ -32,6 +32,15 @@
 
             #endregion
 
+            #region Question 3
+
+            //Pair<int, string> student = new Pair<int, string>(1, "Amr");
+
+            //Console.WriteLine(student.Key);
+            //Console.WriteLine(student.Value);
+
+            #endregion
+
         }
     }
 }
