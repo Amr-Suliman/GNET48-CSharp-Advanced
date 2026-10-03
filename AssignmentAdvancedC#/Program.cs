@@ -60,6 +60,18 @@
 
             #endregion
 
+            #region Question 6
+
+            //IRepository<string> repository = new StringRepository();
+
+            //repository.Add("Amr");
+
+            //Console.WriteLine(repository.GetById(1));
+
+            //repository.Delete(1);
+
+            #endregion
+
         }
     }
 }
