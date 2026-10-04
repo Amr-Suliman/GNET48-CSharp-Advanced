@@ -86,6 +86,14 @@
 
             #endregion
 
+            #region Question 9
+
+            //Student student = NewConstraint.CreateObject<Student>();
+            //student.Name = "Amr";
+            //Console.WriteLine(student.Name);
+
+            #endregion
+
         }
     }
 }
