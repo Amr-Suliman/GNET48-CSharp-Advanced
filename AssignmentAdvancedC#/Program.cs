@@ -72,6 +72,14 @@
 
             #endregion
 
+            #region Question 7
+
+            //StructConstraint.PrintValue(10);
+
+            //StructConstraint.PrintValue(3.14);
+
+            #endregion
+
         }
     }
 }
