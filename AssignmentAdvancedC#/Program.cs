@@ -102,6 +102,23 @@
 
             #endregion
 
+            #region Question 11
+
+            //Student student = new Student();
+
+            //student.Name = "Amr";
+
+            //BaseClassConstraint.PrintName(student);
+
+            #endregion
+
+            #region Question 12
+
+            //Student student = new Student();
+
+            //MultipleConstraints.Process(student);
+
+            #endregion
         }
     }
 }
