@@ -94,6 +94,14 @@
 
             #endregion
 
+            #region Question 10
+
+            //Student student = new Student();
+
+            //InterfaceConstraint.PrintItem(student);
+
+            #endregion
+
         }
     }
 }
