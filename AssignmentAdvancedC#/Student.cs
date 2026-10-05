@@ -1,10 +1,10 @@
-﻿class Student : IPrintable
+﻿class Student : Person, IPrintable
 {
     public Student()
     {
     }
 
-    public string Name { get; set; }
+    public int Grade { get; set; }
 
     public void Print()
     {
