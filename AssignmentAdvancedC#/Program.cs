@@ -112,6 +112,13 @@
 
             #endregion
 
+            #region Question 12
+
+            //Student student = new Student();
+
+            //MultipleConstraints.Process(student);
+
+            #endregion
         }
     }
 }
