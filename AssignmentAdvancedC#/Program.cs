@@ -119,6 +119,18 @@
             //MultipleConstraints.Process(student);
 
             #endregion
+
+            #region Question 13
+
+            //int number = DefaultHelper.GetDefault<int>();
+
+            //string text = DefaultHelper.GetDefault<string>();
+
+            //Console.WriteLine(number);
+            //Console.WriteLine(text == null);
+
+            #endregion
+
         }
     }
 }
