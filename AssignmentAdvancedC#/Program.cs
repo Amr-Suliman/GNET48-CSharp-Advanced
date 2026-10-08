@@ -131,6 +131,18 @@
 
             #endregion
 
+            #region Question 14
+
+            //SafeList<int> numbers = new SafeList<int>();
+
+            //numbers.Add(10);
+            //numbers.Add(20);
+            //numbers.Add(30);
+
+            //Console.WriteLine(numbers.Get(1));
+            //Console.WriteLine(numbers.Get(10));
+
+            #endregion
         }
     }
 }
