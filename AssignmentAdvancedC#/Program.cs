@@ -143,6 +143,19 @@
             //Console.WriteLine(numbers.Get(10));
 
             #endregion
+
+            #region Question 15
+
+            //ICreator<Dog> dogCreator = new DogCreator();
+
+            //ICreator<Animal> animalCreator = dogCreator;
+
+            //Animal animal = animalCreator.Create();
+
+            //Console.WriteLine(animal.GetType().Name);
+
+            #endregion
+
         }
     }
 }
