@@ -156,6 +156,18 @@
 
             #endregion
 
+            #region Question 16
+
+            //IHandler<Animal> animalHandler = new AnimalHandler();
+
+            //IHandler<Dog> dogHandler = animalHandler;
+
+            //Dog dog = new Dog();
+
+            //dogHandler.Handle(dog);
+
+            #endregion
+
         }
     }
 }
