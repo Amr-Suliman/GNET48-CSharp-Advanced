@@ -168,6 +168,31 @@
 
             #endregion
 
+            #region Question 17
+
+            //What is the difference between covariance and contravariance?
+            // Covariance (out):
+            // Allows using a more derived type where a less derived type is expected.
+            // Used for output (return) types.
+            // Example: IEnumerable<string> can be assigned to IEnumerable<object>.
+
+            // Contravariance (in):
+            // Allows using a less derived type where a more derived type is expected.
+            // Used for input (parameter) types.
+            // Example: Action<object> can be assigned to Action<string>.
+
+            // Covariance Example:
+            //IEnumerable<string> names = new List<string> { "Amr", "Ahmed" };
+            //IEnumerable<object> objects = names;
+
+            //// Contravariance Example:
+            //Action<object> printObject = obj => Console.WriteLine(obj);
+            //Action<string> printString = printObject;
+
+            //printString("Hello Amr");
+
+            #endregion
+
         }
     }
 }
