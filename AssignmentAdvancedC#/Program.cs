@@ -193,6 +193,38 @@
 
             #endregion
 
+            #region Question 18
+
+            //How do static members work in generic types ?
+
+            // Static members in generic types are shared among all instances
+            // of the same closed generic type.
+
+            // Each different type argument has its own copy of static members.
+            // For example, Counter<int> and Counter<string>
+            // have separate static fields.
+
+            //class Counter<T>
+            //        {
+            //            public static int Count = 0;
+
+            //            public Counter()
+            //            {
+            //                Count++;
+            //            }
+            //        }
+
+            //        // Example Usage:
+            //        Counter<int> c1 = new Counter<int>();
+            //        Counter<int> c2 = new Counter<int>();
+
+            //        Counter<string> c3 = new Counter<string>();
+
+            //        Console.WriteLine(Counter<int>.Count);    // Output: 2
+            //Console.WriteLine(Counter<string>.Count); // Output: 1
+
+            #endregion
+
         }
     }
 }
