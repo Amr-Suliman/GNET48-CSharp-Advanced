@@ -225,6 +225,16 @@
 
             #endregion
 
+            #region Question 19
+
+            //SpecialContainer<string> container = new SpecialContainer<string>();
+
+            //container.Add("Amr");
+
+            //container.Show();
+
+            #endregion
+
         }
     }
 }
