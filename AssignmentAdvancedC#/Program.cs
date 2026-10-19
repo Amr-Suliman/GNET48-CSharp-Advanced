@@ -235,6 +235,29 @@
 
             #endregion
 
+            #region Question 20
+
+            //Cache<int, string> products = new Cache<int, string>();
+
+            //products.Add(101, "Laptop", TimeSpan.FromSeconds(5));
+            //products.Add(102, "Mouse", TimeSpan.FromMinutes(2));
+
+            //Console.WriteLine(products.Get(101));
+
+            //Console.WriteLine(products.Contains(102));
+
+            //Console.WriteLine(products.Remove(102));
+
+            //Console.WriteLine(products.Contains(102));
+
+            //Thread.Sleep(6000);
+
+            //Console.WriteLine(products.Contains(101));
+
+            //Console.WriteLine(products.Get(101) == null);
+
+            #endregion
+
         }
     }
 }
